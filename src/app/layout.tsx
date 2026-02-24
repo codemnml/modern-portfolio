@@ -17,8 +17,8 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Michael - Web Developer',
-  description: 'Portfolio of Michael, Web Developer',
+  title: 'Code MNML - Web Developer',
+  description: 'Portfolio of Code MNML, Web Developer',
 };
 
 export default function RootLayout({

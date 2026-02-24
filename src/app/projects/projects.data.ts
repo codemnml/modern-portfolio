@@ -27,7 +27,7 @@ const projects: Project[] = [
     {
         name: 'ngportfolio',
         description: 'This current-facing website. Features a user-experience similar to that of a native iPhone or Android app. Features Angular Animations for smooth transitions between different routes.',
-        link: 'http://www.michaelco.me/',
+        link: 'https://ng-portfolio-nine-ashen.vercel.app/projects',
         imgUrl: 'https://s17.postimg.org/6ytcmy4zj/Copy_of_logo_favicon_ngportfolio.png',
         technologies: ['Angular', 'Angular Animations', 'Express', 'Node.js', 'Bootstrap', 'HTML', 'CSS', 'Javascript'],
         apis: ['Mailgun API']

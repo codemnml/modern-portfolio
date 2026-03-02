@@ -40,7 +40,7 @@ export default function Home() {
             I build <strong>modern digital products.</strong>
           </h1>
           <h1 className="font-roboto text-3xl md:text-[2.5rem] text-[#555555] leading-tight md:leading-[3.5rem] mb-4">
-            I'm a <em className="italic">full-stack developer</em> based in the San Francisco, Bay Area, specializing in custom web applications and data driven solutions.
+            I'm a <em className="italic">full-stack developer</em> based in the San Francisco, Bay Area, specializing in custom web applications and engaging web assets.
           </h1>
           <div className="md:text-right mt-12 flex justify-end items-center">
             <Link href="/projects" className="font-roboto flex items-center text-xl text-[#777777] hover:text-[#000000] cursor-pointer pt-5 transition-colors duration-300">
